@@ -1,2 +1,4 @@
-# papers
-复现paper算法
+# 研0 paper阅读计划 from  2024.11
+
+
+
